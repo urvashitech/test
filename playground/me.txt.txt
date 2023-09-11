@@ -1,5 +1,0 @@
-{{#user}}
-Name: Urvashi Kshatriya
-Skills: HTML, CSS, JS, ReactJs
-Email: urvashikshatriya9@gmail.com
-{{/user}}
